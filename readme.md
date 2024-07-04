@@ -1,1 +1,1 @@
-# Git super mne nrav
+# Git readme
